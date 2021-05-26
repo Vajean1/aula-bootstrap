@@ -1,0 +1,20 @@
+Bootstrap
+
+O que é:
+
+- Se trata de um framework para desenvolvimento de sites responsivos
+-Possui uma vasta biblioteca de componentes que facilita e agiliza o desenvolvimento de páginas web
+-É um dos frameworks mais conhecidos e usados para desenvolvimento front-end
+
+----------------
+O bootstrap separa a tela em 12 colunas, seguindo as classes:
+ conteiner - conteiner
+ row - 
+ col - coluna
+
+acessando a biblioteca do bootstrap encontra-se
+todos as classes que da pra por nas tags e formata-las
+O bootstrap é como um css com class 
+
+container-fluit = deixa o conteiner completo na pagina
+text-center = alinha o texto no centro
